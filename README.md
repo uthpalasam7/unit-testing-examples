@@ -30,7 +30,7 @@ or inside your IDE (IntelliJ IDEA, Eclipse, etc.).
 
 ## Related Blog Post
 
-👉 [Tired of Writing Bad Unit Tests? Here’s the Beginner’s Guide I Wish I Had]()
+👉 [Tired of Writing Bad Unit Tests? Here’s the Beginner’s Guide I Wish I Had](https://medium.com/@uthpala_sam/tired-of-writing-bad-unit-tests-heres-how-to-do-it-right-b886be7d8173)
 
 ## License
 
